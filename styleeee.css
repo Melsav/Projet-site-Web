@@ -1,0 +1,47 @@
+.deuxiemepara{
+    position: relative;
+    float: right;
+    right: 100px;
+    top: 15vh;
+    border: 3px solid red;
+    background-color: orange;
+}
+
+.premierpara{
+    position: relative;
+    float: left;
+    left: 100px;
+    top: 15vh;
+    border: 3px solid red;
+    background-color: orange;
+}
+
+h1{
+    text-align: center;
+    justify-content: center;
+    border: 3px solid black;
+    background-color: grey;
+    color: white;
+    
+
+}
+
+
+.foot{
+    text-align: center;
+    border: 3px solid black;
+    background-color: grey;
+    color: white;
+    justify-content: center;
+  position: absolute;
+    top: 87%;
+    left: 0.1%;
+    width: 1528px;
+}
+body{
+    margin: 0px;
+}
+
+li{
+    color: white;
+}

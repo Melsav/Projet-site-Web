@@ -1,0 +1,192 @@
+
+
+table
+{
+	caption-side: bottom;
+    border-collapse: collapse; /* Les bordures du tableau seront collées (plus joli) */
+	background-color: #D8BFD8;
+	height: 200px;
+	width: 200 px;
+    position: relative;
+    left: 710px;
+    border: 3px white solid;
+	
+	
+	
+}
+td
+{
+    border: 3px groove purple;
+	
+}
+th
+{
+	border: 3px groove purple;
+	background-color: blueviolet;
+	text-align: center;
+}
+
+caption
+{
+	width: 700px;
+	padding: 15px;
+	margin: 10px;
+	border: 1px solid#000;
+	background-color: yellow;
+	color: red;
+	font-family: Arial Black;
+    white-space: nowrap;
+	vertical-align: center;
+
+}
+
+h1{
+    border: 3px solid black;
+    font-size: 30px;
+    padding: 20px 50px;
+    font-family: 'Abril FatFace';
+    text-align: center;
+  
+    font-weight: 100;
+    color: white;
+    background-color: grey;
+    
+    width: 30%;
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
+    left: 280px;
+    margin-left: auto;
+    justify-content: left;
+}
+
+body{
+  
+    
+}
+
+.gogo{
+    border: 3px solid black;
+    font-size: 20px;
+    padding: 20px 50px;
+    font-family: 'Abril FatFace';
+    text-align: center;
+  
+    font-weight: 100;
+    color: white;
+    background-color: grey;
+    
+    width: 30%;
+    margin-right: auto;
+    margin-left: auto;
+    position: absolute;
+    top: 2%;
+    left: 3%;
+    margin-left: auto;
+    justify-content: left;
+}
+
+.first{
+    position: absolute;
+    left:2%;
+    top:29%;
+    border: 2px solid black;
+    background-color: black;
+    font-size: 20px;
+    width: 150px;
+    height: 80px;
+
+}
+li{
+    color: white;
+    text-decoration: none;
+    
+    
+  
+}
+
+.every{
+
+    width: 350px;
+    position: absolute;
+    top: 26%;
+    left: 17%;
+   
+}
+
+.seconde{
+    position: absolute;
+    top: 73%;
+    width: 200px;
+    border: 2px solid black;
+    background-color: black;
+    left: 2.2%;
+    height: 85px;
+    
+    
+}
+
+.button{
+    display: flex;
+    text-decoration: none;
+    
+}
+.gaga
+{
+    border: 3px solid black;
+    font-size: 30px;
+    padding: 20px 50px;
+    font-family: 'Abril FatFace';
+    text-align: center;
+    align-items: center;
+  
+    font-weight: 100;
+    color: white;
+    background-color:#E9C9B1;
+    
+    width: 30%;
+    margin-right: auto;
+    margin-left: auto;
+    position: absolute;
+    left: 30px;
+    top:50%;
+    margin-left: auto;
+    justify-content: center;
+}
+
+.gogo
+{
+    border: 3px solid black;
+    font-size: 30px;
+    padding: 20px 50px;
+    font-family: 'Abril FatFace';
+    text-align: center;
+  
+    font-weight: 100;
+    color: white;
+    background-color:#E9C9B1;
+    
+    width: 30%;
+    margin-right: auto;
+    margin-left: auto;
+    position: absolute;
+    left: 25px;
+    margin-left: auto;
+    justify-content: left;
+}
+.lycee{
+
+    width: 250px;
+    position: absolute;
+    float: right;
+    left: 24%;
+    top:72%;
+}
+
+
+
+}
+
+
+
+	

@@ -1,0 +1,284 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+
+* {
+	margin: 0;
+	list-style: none;
+   
+}
+body{
+
+background-image:url(bluee.jpg);
+background-repeat: repeat-y;
+}
+
+section.top-page
+{
+height: 80vh;
+padding: 0px;
+margin: 0;
+}
+
+nav.nav{
+    display: flex;
+    width: 1175px;
+    
+    margin-left: 100px;
+    list-style:  none;
+    justify-content: space-between;
+}
+
+/* page de bienvenue */
+
+h1{
+
+    border: 3px solid black;
+    font-size: 30px;
+    padding: 20px 50px;
+    font-family: 'Abril FatFace';
+  
+    font-weight: 100;
+    color: white;
+    background-color: grey;
+    
+    width: 40%;
+  
+    
+}
+h2{
+
+justify-content:  center;
+display: flex;
+text-align: center;
+position: relative;
+left: 7.7%;
+font-family: 'Abril FatFace';
+font-weight: 100;
+border: black solid 2px;
+border-radius: 20px / 10px;
+background-color: black;
+color: white;
+width: 30%;
+
+}
+
+
+
+header.header img {
+    width: 150px;
+    filter:alpha(opacity=50);    -moz-opacity:0.5;    
+    -khtml-opacity: 0.5;    opacity: 0.5;
+
+}
+
+header.header{
+    display: flex;
+    align-items: center;
+    background-color: aquamarine;
+   border: 3px solid black;
+    border-image: linear-gradient(to right, #373b44, #4286f4);
+	border-image-slice: 1;
+
+    
+}
+nav.nav {
+  
+
+
+   
+}
+
+.button{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-weight: bold;
+    background-color:powderblue;
+    border: 0;
+    padding: 10px 40px;
+    color: white;
+    font-size: 2em;
+    transform: skewX(-15deg);
+    cursor: pointer;
+    transition: 0.2s;
+    display: inline-block;
+    text-decoration: none;
+    
+}
+
+button:hoover{
+    padding-right: 120px;
+}
+
+span.arrow{
+
+    margin-left: 25px;
+    position: relative;
+    color: pink;
+  
+}
+span.arrow1{
+
+    margin-left: 25px;
+    position: relative;
+    color: pink;
+  
+}
+span.arrow2{
+
+    margin-left: 25px;
+    position: relative;
+    color: pink;
+  
+}
+span.arrow3{
+
+    margin-left: 25px;
+    position: relative;
+    color: pink;
+  
+}
+
+span.arrow4{
+
+    margin-left: 25px;
+    position: relative;
+    color: purple;
+  
+}
+
+
+
+
+
+
+
+
+a{
+    text-decoration: none;
+}
+
+.cool{
+
+    background: #8a2387; 
+    background: -webkit-linear-gradient(to right, #8a2387, #e94057, #f27121); 
+    background: linear-gradient(to right, #8a2387, #e94057, #f27121); 
+    background-color: hotpink;
+    width: 35%;
+    justify-content: center;
+    height: 40vh;
+    
+    
+
+}
+
+li{
+    justify-content: center;
+    font-family: 'Abril FatFace';
+    font-weight: 100;
+    
+
+}
+
+.moi{
+
+    width: 11%;
+    height: 23.5%;
+    position: absolute;
+    left: 24%;
+    top: 39.8%;
+
+}
+
+.insta{
+    position: absolute;
+    top: 65%;
+    left: 2.9%;
+    width: 60px;
+}
+
+.Facebook{
+
+    width: 60px;
+    top: 65%;
+    left: 9.5%;
+    position: absolute;
+}
+
+.Twitter{
+    width: 60px;
+    top: 65%;
+    left: 16.3%;
+    position: absolute;
+    height: 9%;
+}
+
+.charlie{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-weight: bold;
+    background-color:	#87CEEB;
+    border: 0;
+    padding: 10px 40px;
+    color: black;
+    font-size: 1.5em;
+    cursor: pointer;
+    transition: 0.2s;
+    display: inline-block;
+    text-decoration: none;
+    position: absolute;
+    left: 19.6%;
+    
+}
+.formation{
+justify-content:  center;
+display: flex;
+text-align: left;
+position: absolute;
+
+font-family: 'Abril FatFace';
+font-weight: 100;
+border: black solid 3px;
+font-size: 33px;
+top: 44%;
+left: 43%;
+
+background-color: grey;
+color: white;
+width: 33%;
+
+text-decoration: blink;
+
+}
+
+.sudrialogo{
+
+    position: absolute;
+    width: 150px;
+    left: 55%;
+    top: 63%;
+    background: #a8ff78;  
+    background: -webkit-linear-gradient(to right, #78ffd6, #a8ff78); 
+    background: linear-gradient(to right, #78ffd6, #a8ff78); 
+    border: #a8ff78 solid 3px;
+}
+
+.ici{
+
+    width: 76px;
+    position: absolute;
+    top: 68%;
+    left: 45%;
+   
+    
+
+}
+
+.test4{
+
+    position: absolute;
+    color:white;
+    left: 52%;
+    top: 88%;
+}
