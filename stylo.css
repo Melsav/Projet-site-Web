@@ -1,0 +1,87 @@
+.rona {
+    top: 24%;
+    left: 22%;
+    position: absolute;
+    width: 200px;
+    color: rgb(150, 54, 54);
+    background: linear-gradient(45deg, #87adfe, #ff77cd);
+    border-radius: 6px;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    text-decoration: none;
+    box-shadow: 3px 8px 22px rgba(94,28,68,0,15);
+
+}
+
+.messi{
+    top: 55%;
+    position: absolute;
+    width: 250px;
+    color: rgb(150, 54, 54);
+    background: linear-gradient(45deg, #87adfe, #ff77cd);
+    border-radius: 6px;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    text-decoration: none;
+    box-shadow: 3px 8px 22px rgba(94,28,68,0,15);
+
+}
+
+.neymar{
+    top: 24%;
+    position: absolute;
+    width: 250px;
+    color: rgb(150, 54, 54);
+    background: linear-gradient(45deg, #87adfe, #ff77cd);
+    border-radius: 6px;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    text-decoration: none;
+    box-shadow: 3px 8px 22px rgba(94,28,68,0,15);
+
+}
+
+.r9{
+    top: 65%;
+    position: absolute;
+    left: 22%;
+    width: 150px;
+    color: rgb(150, 54, 54);
+    background: linear-gradient(45deg, #87adfe, #ff77cd);
+    border-radius: 6px;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    text-decoration: none;
+    box-shadow: 3px 8px 22px rgba(94,28,68,0,15);
+    
+}
+
+.stars{
+    
+}
+
+h1{
+    color: white;
+    border: 3px solid black;
+    background-color: grey;
+    width: 27%;
+    position: absolute;
+    left: 80px;
+}
+.explic
+{
+    color: white;
+    position: absolute;
+    float: right;
+    right: 18%;
+    font-size: 23px;
+
+
+}
+.foote{
+    width: 28%;
+    position: absolute;
+    right:23%;
+    top: 99%;
+
+}
